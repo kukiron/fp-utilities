@@ -1,5 +1,5 @@
 # FP-Utilities
 
-A collection of simple utility functions to help more to deep dive into Functional Programming.
+A collection of simple utility functions to help more for deep diving into Functional Programming.
 
-No third party library was used.
+Without the use of any other third party libraries.
